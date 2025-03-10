@@ -1,0 +1,2 @@
+# Card Number Validator and Issuer Identifier
+ This script validates a credit or debit card number using the Luhn algorithm. It also identifies the card's issuing company (Visa, Mastercard, American Express, etc.) based on its initial digits. The user inputs a card number, and the script checks if it's mathematically valid and displays the corresponding issuer.
